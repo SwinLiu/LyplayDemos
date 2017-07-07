@@ -22,3 +22,17 @@ local.properties
 
 # Maven
 target/
+
+## nodeJs
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+
+# dependencies
+/node_modules
+
+# e2e
+/e2e/*.js
+/e2e/*.map
